@@ -91,6 +91,11 @@
             <artifactId>a-vaadin-helper</artifactId>
             <version>1.7.1</version>
         </dependency>
+        <dependency>
+            <groupId>com.flowingcode.addons.applayout</groupId>
+            <artifactId>app-layout-addon</artifactId>
+            <version>5.0.5</version>
+        </dependency>
 
         <dependency>
             <groupId>com.vaadin</groupId>
